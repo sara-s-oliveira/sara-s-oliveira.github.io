@@ -94,7 +94,7 @@ figure {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
   list-style: none;
   font-size: 17px;
 }
